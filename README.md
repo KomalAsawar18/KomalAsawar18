@@ -2,10 +2,10 @@
 ### 🚀 CS Undergraduate | Web & Mobile Developer | AI & Data Science Enthusiast  
 💡 Passionate about building scalable solutions and exploring emerging technologies. 
 
-🔹 **Languages:** C, C++, Java, Python, Dart, SQL  
-🔹 **Web Technologies:** HTML, CSS, Bootstrap, SASS, JavaScript, PHP, Laravel  
-🔹 **Mobile Development:** Flutter & Dart  
-🔹 **Interests:** AI, Data Science, Development, Problem Solving  
+**Languages:** C, C++, Java, Python, Dart, SQL  
+**Web Technologies:** HTML, CSS, Bootstrap, SASS, JavaScript, PHP, Laravel  
+**Mobile Development:** Flutter & Dart  
+**Interests:** AI, Data Science, Development, Problem Solving  
 
 📫 Connect with me: <br>
 [![LinkedIn](www.linkedin.com/in/komal-asawar-30b540252)](https://linkedin.com/in/your-profile)   
@@ -18,23 +18,11 @@
 ![HTML5](https://img.icons8.com/color/30/000000/html-5.png)  ![CSS3](https://img.icons8.com/color/30/000000/css3.png)  ![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png)   ![SASS](https://img.icons8.com/color/30/000000/sass.png)   ![JavaScript](https://img.icons8.com/color/30/000000/javascript--v1.png)   ![PHP](https://img.icons8.com/officel/30/000000/php-logo.png)  ![Laravel](https://img.icons8.com/fluency/30/000000/laravel.png)  
 
 ### **📱 Mobile App Development**  
-![Flutter](https://img.icons8.com/color/30/000000/flutter.png) **Flutter**  
-![Dart](https://img.icons8.com/color/30/000000/dart.png) **Dart**  
-![Firebase](https://img.icons8.com/color/30/000000/firebase.png) **Firebase**  
+![Flutter](https://img.icons8.com/color/30/000000/flutter.png)   ![Dart](https://img.icons8.com/color/30/000000/dart.png)  ![Firebase](https://img.icons8.com/color/30/000000/firebase.png)   
 
 ### **🧠 AI & Data Science**  
-![TensorFlow](https://img.icons8.com/color/30/000000/tensorflow.png) **TensorFlow**  
-![Scikit-Learn](https://img.icons8.com/color/30/000000/artificial-intelligence.png) **Scikit-Learn**  
-![Pandas](https://img.icons8.com/color/30/000000/pandas.png) **Pandas**  
-![Google Colab](https://img.icons8.com/color/30/000000/google-colab.png) **Google Colab**  
+![TensorFlow](https://img.icons8.com/color/30/000000/tensorflow.png) ![Scikit-Learn](https://img.icons8.com/color/30/000000/artificial-intelligence.png) ![Pandas](https://img.icons8.com/color/30/000000/pandas.png)   ![Google Colab](https://img.icons8.com/color/30/000000/google-colab.png) 
 
 ### **🔧 Tools & Version Control**  
-![Git](https://img.icons8.com/color/30/000000/git.png) **Git**  
-![GitHub](https://img.icons8.com/glyph-neue/30/ffffff/github.png) **GitHub**  
-![Docker](https://img.icons8.com/color/30/000000/docker.png) **Docker**  
-![Postman](https://img.icons8.com/dusk/30/000000/postman-api.png) **Postman**  
-![VS Code](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png) **VS Code**  
-![IntelliJ IDEA](https://img.icons8.com/color/30/000000/intellij-idea.png) **IntelliJ IDEA**  
-![PyCharm](https://img.icons8.com/color/30/000000/pycharm.png) **PyCharm**  
-![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png) **MySQL**  
+![Git](https://img.icons8.com/color/30/000000/git.png)   ![GitHub](https://img.icons8.com/glyph-neue/30/ffffff/github.png) ![Docker](https://img.icons8.com/color/30/000000/docker.png)   ![Postman](https://img.icons8.com/dusk/30/000000/postman-api.png) ![VS Code](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png)   ![IntelliJ IDEA](https://img.icons8.com/color/30/000000/intellij-idea.png)  ![PyCharm](https://img.icons8.com/color/30/000000/pycharm.png) ![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png)  
 
