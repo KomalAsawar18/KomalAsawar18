@@ -39,10 +39,12 @@
 ![Google Colab](https://img.icons8.com/color/30/000000/google-colab.png) **Google Colab**  
 
 ### **🔧 Tools & Version Control**  
-🔹 ![Git](https://img.icons8.com/color/30/000000/git.png) **Git**  
-🔹 ![GitHub](https://img.icons8.com/glyph-neue/30/ffffff/github.png) **GitHub**  
-🔹 ![VS Code](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png) **VS Code**  
-🔹 ![IntelliJ IDEA](https://img.icons8.com/color/30/000000/intellij-idea.png) **IntelliJ IDEA**  
-🔹 ![PyCharm](https://img.icons8.com/color/30/000000/pycharm.png) **PyCharm**  
-🔹 ![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png) **MySQL**  
- 
+![Git](https://img.icons8.com/color/30/000000/git.png) **Git**  
+![GitHub](https://img.icons8.com/glyph-neue/30/ffffff/github.png) **GitHub**  
+![Docker](https://img.icons8.com/color/30/000000/docker.png) **Docker**  
+![Postman](https://img.icons8.com/dusk/30/000000/postman-api.png) **Postman**  
+![VS Code](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png) **VS Code**  
+![IntelliJ IDEA](https://img.icons8.com/color/30/000000/intellij-idea.png) **IntelliJ IDEA**  
+![PyCharm](https://img.icons8.com/color/30/000000/pycharm.png) **PyCharm**  
+![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png) **MySQL**  
+
