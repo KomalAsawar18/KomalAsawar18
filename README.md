@@ -34,7 +34,6 @@
 
 ### **🧠 AI & Data Science**  
 ![TensorFlow](https://img.icons8.com/color/30/000000/tensorflow.png) **TensorFlow**  
-![PyTorch](https://img.icons8.com/color/30/000000/pytorch.png) **PyTorch**  
 ![Scikit-Learn](https://img.icons8.com/color/30/000000/artificial-intelligence.png) **Scikit-Learn**  
 ![Pandas](https://img.icons8.com/color/30/000000/pandas.png) **Pandas**  
 ![Google Colab](https://img.icons8.com/color/30/000000/google-colab.png) **Google Colab**  
