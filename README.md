@@ -12,10 +12,10 @@
 
   ## 🛠️ Tech Stack & Tools    
 ### **💻 Programming Languages**  
-![C](https://img.icons8.com/color/30/000000/c-programming.png) ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png)  ![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png) **Java**  ![Python](https://img.icons8.com/color/30/000000/python.png) **Python**  ![SQL](https://img.icons8.com/external-flat-juicy-fish/30/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png) **SQL**  
+![C](https://img.icons8.com/color/30/000000/c-programming.png) ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png)  ![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png)  ![Python](https://img.icons8.com/color/30/000000/python.png)   ![SQL](https://img.icons8.com/external-flat-juicy-fish/30/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png)   
 
 ### **🌐 Web Development**  
-![HTML5](https://img.icons8.com/color/30/000000/html-5.png) **HTML5**  ![CSS3](https://img.icons8.com/color/30/000000/css3.png) **CSS3** ![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png) **Bootstrap**  ![SASS](https://img.icons8.com/color/30/000000/sass.png) **SASS**  ![JavaScript](https://img.icons8.com/color/30/000000/javascript--v1.png) **JavaScript**  ![PHP](https://img.icons8.com/officel/30/000000/php-logo.png) **PHP**  ![Laravel](https://img.icons8.com/fluency/30/000000/laravel.png) **Laravel**  
+![HTML5](https://img.icons8.com/color/30/000000/html-5.png)  ![CSS3](https://img.icons8.com/color/30/000000/css3.png)  ![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png)   ![SASS](https://img.icons8.com/color/30/000000/sass.png)   ![JavaScript](https://img.icons8.com/color/30/000000/javascript--v1.png)   ![PHP](https://img.icons8.com/officel/30/000000/php-logo.png)  ![Laravel](https://img.icons8.com/fluency/30/000000/laravel.png)  
 
 ### **📱 Mobile App Development**  
 ![Flutter](https://img.icons8.com/color/30/000000/flutter.png) **Flutter**  
