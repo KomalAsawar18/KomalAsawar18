@@ -12,11 +12,7 @@
 
   ## 🛠️ Tech Stack & Tools    
 ### **💻 Programming Languages**  
-![C](https://img.icons8.com/color/30/000000/c-programming.png) **C**  
-![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png) **C++**  
-![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png) **Java**  
-![Python](https://img.icons8.com/color/30/000000/python.png) **Python**  
-![SQL](https://img.icons8.com/external-flat-juicy-fish/30/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png) **SQL**  
+![C](https://img.icons8.com/color/30/000000/c-programming.png) **C**  ![C++](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png) **C++**  ![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png) **Java**  ![Python](https://img.icons8.com/color/30/000000/python.png) **Python**  ![SQL](https://img.icons8.com/external-flat-juicy-fish/30/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png) **SQL**  
 
 ### **🌐 Web Development**  
 ![HTML5](https://img.icons8.com/color/30/000000/html-5.png) **HTML5**  
