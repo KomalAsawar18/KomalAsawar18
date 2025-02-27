@@ -8,8 +8,7 @@
 **Interests:** AI, Data Science, Development, Problem Solving  
 
 ## **📞 Get in Touch!**  
-[![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](www.linkedin.com/in/komal-asawar-30b540252)  
-[![Gmail](https://img.icons8.com/color/30/000000/gmail-new.png)](mailto:komalasawar24@gmail.com)  
+[![LinkedIn](https://img.icons8.com/color/30/000000/linkedin.png)](www.linkedin.com/in/komal-asawar-30b540252)  [![Gmail](https://img.icons8.com/color/30/000000/gmail-new.png)](mailto:komalasawar24@gmail.com)  
 
 
   ## 🛠️ MY Tech Stack & Tools     
