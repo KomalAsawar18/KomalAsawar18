@@ -1,9 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Komal Asawar.  
+### 🚀 CS Undergraduate | Web & Mobile Developer | AI & Data Science Enthusiast  
 
-<!--
-**KomalAsawar18/KomalAsawar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Languages: C, C++, Java, Python, Dart, SQL  
+🔹 Web Technologies: HTML, CSS, BS5, SASS, JavaScript, PHP, Laravel  
+🔹 Mobile Development: Flutter & Dart  
+🔹 Interests: AI, Data Science, Development, Problem Solving  
 
-Here are some ideas to get you started:
+📫 Connect with me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/your-username)  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
