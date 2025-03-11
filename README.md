@@ -20,6 +20,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KomalAsawar18&layout=compact&theme=radical)  
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KomalAsawar18&theme=radical)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KomalAsawar18&show_icons=true&theme=tokyonight)
 
